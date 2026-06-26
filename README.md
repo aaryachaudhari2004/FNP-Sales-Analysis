@@ -124,6 +124,7 @@ Sales-Analysis-Dashboard/
 **Aarya Chaudhari**
 
 Aspiring Data Analyst | Business Analyst | MIS Analyst
+
 **Skills:** Excel • Data Visualization • Dashboard Development
 ---
 
